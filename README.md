@@ -1,2 +1,11 @@
-# BlogCodeSandBox
-BlogCodeSandBox，博客代码沙箱，存储一些 Blog 代码示例等，可导入到 CodeSandBox 直接运行。
+# EventBusRepeatTrigger
+EventBusRepeatTrigger：EventBus重复触发
+
+怎么跑起来
+1. yarn
+2. yarn serve
+
+或
+
+1. npm install
+2. npm run serve
