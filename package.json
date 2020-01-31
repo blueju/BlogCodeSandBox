@@ -1,0 +1,20 @@
+{
+  "name": "webpack-i18next",
+  "version": "1.0.0",
+  "description": "BlogCodeSandBox，博客代码沙箱，存储一些 Blog 代码示例等，可导入到 CodeSandBox 直接运行。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blueju/BlogCodeSandBox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blueju/BlogCodeSandBox/issues"
+  },
+  "homepage": "https://github.com/blueju/BlogCodeSandBox#readme",
+  "dependencies": {}
+}
